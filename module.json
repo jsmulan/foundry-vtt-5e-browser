@@ -1,0 +1,15 @@
+{
+    "id": "foundry-vtt-5e-browser",
+    "title": "Browser to compile multiple sources of data",
+    "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+    "authors": [
+      {
+      "name": "Jason Smulan"
+      }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    }
+  }
