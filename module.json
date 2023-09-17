@@ -11,5 +11,6 @@
     "compatibility": {
       "minimum": "11",
       "verified": "11"
-    }
+    },
+    "url": "https://github.com/jsmulan/foundry-vtt-5e-browser"
   }
